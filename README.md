@@ -168,7 +168,7 @@ Municipality names and public or institutional entities were preserved because t
 
 The newsworthiness annotation guidelines used in CitiLink-News are available here:
 
-- [CitiLink-News Annotation Guidelines — Version 1.0](docs/citilink_news_annotation_guidelines_v1.0.pdf)
+- [CitiLink-News Annotation Guidelines — Version 1.0](docs/citilink_news_annotation_guidelines_v1.0_English.pdf)
 
 They define the unit of analysis, the seven news values and their 1–5 scales, and the independent binary newsworthiness decision.
 
